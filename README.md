@@ -38,7 +38,7 @@
 - Loaded data into **PostgreSQL** using Python + SQLAlchemy  
 - Found insights like top products, purchase trends, customer segmentation  
 
-🔗 *Add Link Here*
+🔗 *https://github.com/hamdhanmubarak/Customer-Behaviour-Analysis/blob/main/Customer%20Behaviour%20Dashboard.png*
 
 ---
 
@@ -51,9 +51,8 @@
 ---
 
 ### 📫 Connect With Me  
-(Add your links below)
 
-- LinkedIn: *your link*  
+- LinkedIn: *www.linkedin.com/in/hamdhan-mubarak-data-analyst*  
 - Kaggle: *your link*  
 - Portfolio: *your link*  
 
